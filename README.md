@@ -1,5 +1,10 @@
 # ExamRank03
 
+| <!--                --> | <!--                        --> |
+|-------------------------|---------------------------------|
+| [ft_printf](#ft_printf) | [get_next_line](#get_next_line) |
+| | |
+
 ## ft_printf
 
 <details>
