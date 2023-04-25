@@ -1,9 +1,12 @@
 # ExamRank03
 
+<center>
+
 | <!--                --> | <!--                        --> |
 |-------------------------|---------------------------------|
 | [ft_printf](#ft_printf) | [get_next_line](#get_next_line) |
-| | |
+
+</center>
 
 ## ft_printf
 
